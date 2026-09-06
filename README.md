@@ -109,6 +109,17 @@ Le fichier `CNAME` à la racine du dépôt indique à GitHub Pages le domaine pe
 
 Puis dans **Settings > Pages** du dépôt GitHub, renseigner `partagercestvivre.com` comme domaine personnalisé et cocher **Enforce HTTPS** une fois la propagation DNS terminée (peut prendre jusqu'à 24-48h).
 
+## Référencement (SEO)
+
+Le site inclut `robots.txt`, `sitemap.xml`, des balises `<link rel="canonical">` sur chaque page et des données structurées JSON-LD (type `NGO`) sur la page d'accueil. Un site tout juste mis en ligne n'apparaît pas immédiatement dans Google : l'indexation prend généralement de quelques jours à quelques semaines. Pour l'accélérer :
+
+1. Créer un compte sur [Google Search Console](https://search.google.com/search-console) avec le compte Google de l'association.
+2. Ajouter la propriété `partagercestvivre.com` (vérification par enregistrement DNS TXT chez GoDaddy, ou par le fichier CNAME déjà en place).
+3. Soumettre `https://partagercestvivre.com/sitemap.xml` dans l'onglet **Sitemaps**.
+4. Utiliser **Inspection d'URL** sur la page d'accueil puis cliquer **Demander une indexation**.
+
+Faire la même démarche sur [Bing Webmaster Tools](https://www.bing.com/webmasters) (utilisé aussi par Yahoo et en partie par ChatGPT/Copilot) est également recommandé.
+
 ## Note de sécurité : ne pas publier le RIB
 
 Le PDF source (`docs/Dossier Sponsoring Gala PCV 4eme Edition.pdf`) contient le RIB bancaire de l'association. Il n'a volontairement pas été repris sur le site public — ce type d'information ne doit être communiqué aux sponsors que par un canal direct et sécurisé (email, téléphone), jamais publié sur une page web accessible à tous. Si ce dossier PDF est déployé tel quel sur GitHub Pages (dans le dossier `docs/`), il redeviendrait public : pensez à l'exclure du déploiement ou à le retirer du dépôt s'il n'est pas censé être accessible à tous.
