@@ -1,0 +1,59 @@
+[
+  {
+    "id": "gala-1ere-edition",
+    "title": "Gala de Charité — 1ère édition",
+    "date": "2021-11-13",
+    "location": "Salle des fêtes Marcel Peysson, Villeveyrac (Hérault)",
+    "description": "316 participants et 14 partenaires réunis pour financer la construction d'une bibliothèque et d'une salle informatique au Sud-Est du Maroc.",
+    "image": "assets/gala1.jpg",
+    "link": "https://www.facebook.com/asso.partager.c.est.vivre"
+  },
+  {
+    "id": "gala-2eme-edition",
+    "title": "Gala de Charité — 2ème édition",
+    "date": "2022-11-12",
+    "time": "17h00 - 02h30",
+    "location": "Salle des fêtes Marcel Peysson, Villeveyrac (Hérault)",
+    "description": "408 participants et 17 partenaires réunis pour financer le forage d'un puits d'eau potable et la mise en place de panneaux solaires et d'une pompe.",
+    "image": "assets/gala2.jpg",
+    "link": "https://www.facebook.com/asso.partager.c.est.vivre"
+  },
+  {
+    "id": "tournoi-football-2024",
+    "title": "Tournoi de football solidaire",
+    "date": "2024-05-26",
+    "location": "École d'AMMAR, Tinghir (Maroc)",
+    "description": "Tournoi réunissant 228 écoliers (filles et garçons) de l'école d'AMMAR, pour promouvoir la pratique sportive, l'inclusion et l'égalité des chances.",
+    "image": null,
+    "link": "https://www.facebook.com/asso.partager.c.est.vivre"
+  },
+  {
+    "id": "gala-3eme-edition",
+    "title": "Gala de Charité — 3ème édition",
+    "date": "2024-11-09",
+    "location": "Salle des fêtes Marcel Peysson, Villeveyrac (Hérault)",
+    "description": "426 participants et 22 partenaires réunis pour financer la création d'une aire de jeux et d'abris de bus pour les enfants du village AMMAR.",
+    "image": "assets/gala3.jpg",
+    "link": "https://www.facebook.com/asso.partager.c.est.vivre"
+  },
+  {
+    "id": "mariages-collectifs-2025",
+    "title": "Mariages collectifs marocains",
+    "date": "2025-08-13",
+    "location": "Village AMMAR - Alnif - Tinghir (Maroc)",
+    "description": "Organisation de mariages collectifs pour 13 couples, en partenariat avec l'association TAMOUNTE, réunissant plus de 4 000 personnes par jour autour du patrimoine culturel marocain.",
+    "image": null,
+    "link": "https://www.facebook.com/asso.partager.c.est.vivre"
+  },
+  {
+    "id": "gala-4eme-edition",
+    "title": "Gala de Charité — 4ème édition",
+    "date": "2026-10-17",
+    "time": "18h00 - 00h00",
+    "location": "Salle des fêtes Marcel Peysson, 50 Route de Clermont, Villeveyrac",
+    "description": "Gala caritatif pour la préservation et le développement durable et inclusif de l'Oasis d'AMMAR, au Sud-Est du Maroc : financement d'un bassin hydraulique de stockage des eaux. 450 à 500 participants attendus.",
+    "image": null,
+    "link": "https://www.facebook.com/asso.partager.c.est.vivre",
+    "ticketLink": "https://my.weezevent.com/gala-caritatif-9"
+  }
+]
